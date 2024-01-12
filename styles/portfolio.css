@@ -85,6 +85,9 @@ background-position: bottom right;
   .banner{
     flex-direction: column;
   }
+  nav>ul{
+    margin-top: 20px;
+  }
 
   .banner{
     padding: 30px;
@@ -92,5 +95,9 @@ background-position: bottom right;
   }
   #button{
     gap: 20px;
+  }
+  .header {
+    background-color: #ffebeb;
+    width: 100%;
   }
 }
