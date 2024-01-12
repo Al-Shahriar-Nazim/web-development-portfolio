@@ -1,0 +1,55 @@
+/* simillar design start */
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+.text-primary {
+  color: #fd6e0a;
+}
+.btn-primary {
+  border-radius: 5px;
+  background: #fd6e0a;
+  border: none;
+  color: #fff;
+  padding: 19px 35px;
+}
+
+
+/* nav releted styles */
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 130px;
+}
+.nav-titel {
+  color: #181818;
+  font-size: 45px;
+  font-weight: 800;
+}
+nav > ul {
+  display: flex;
+  align-items: center;
+}
+nav li {
+  list-style: none;
+  margin-right: 50px;
+}
+nav a {
+  text-decoration: none;
+  color: #474747;
+}
+/* header section start  */
+.header{
+    background-color:#ffebeb;
+}
+.banner{
+    padding: 30px 30px 30px 130px;
+    display: flex;
+    align-items: center;
+
+}
+.profile-pic{
+    width: 500px;
+}
